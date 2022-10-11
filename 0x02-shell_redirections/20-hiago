@@ -1,2 +1,4 @@
 #!/bin/bash
 cat 20-hiago | tr -d '[c] ' | tr '[:upper:]' tr '[:lower:]'
+
+
